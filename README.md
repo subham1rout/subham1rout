@@ -3,7 +3,7 @@
 - 🌱 I’m currently working as a software engineer at iserveu technology pvt ltd, bhubaneswar.
 - 💞️ I’m looking to collaborate on javascript.
 - 📫 How to reach me 
-  contact no - 8144068414
+  contact no - 8144068414 and
   mail id- subhamroutnuagaon@gmail.com
 
 <!---
