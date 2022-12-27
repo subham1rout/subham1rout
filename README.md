@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @subham1rout
-- 👀 I’m interested in javascript, nodejs, express, cassandra, sql.
+- 👀 I’m interested in javascript, nodejs, express.js, cassandra, sql, docker, firebase, postgresql.
 - 🌱 I’m currently working as a software engineer at iserveu technology pvt ltd, bhubaneswar.
-- 💞️ I’m looking to collaborate on javascript, nodejs, express, cassandra.
+- 💞️ I’m looking to collaborate on javascript and nodejs.
 - 📫 How to reach me 
   contact no - 8144068414 and
   mail id- subhamroutnuagaon@gmail.com
