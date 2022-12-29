@@ -1,8 +1,8 @@
  ###  About Me :
 - 👋 Hi, I’m Subham Rout.
-- 👀 I’m interested in javascript, nodejs, express.js, cassandra, sql, docker, firebase, postgresql.
-- 🌱 I’m currently working as a software engineer at iserveu technology pvt ltd, bhubaneswar.
-- 💞️ I’m looking to collaborate on javascript and nodejs.
+- 👀 I’m interested in Javascript, NodeJS, Express.js, Cassandra, SQL, Docker, Firebase, PostgreSql.
+- 🌱 I’m currently working as a backend software developer at iServeU Technology Pvt. Ltd., Bhubaneswar.
+- 💞️ I’m looking to collaborate on Javascript and NodeJS.
 - 📫 How to reach me 
   contact no - 8144068414 and
   mail id- subhamroutnuagaon@gmail.com
