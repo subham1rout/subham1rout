@@ -1,6 +1,6 @@
  ###  About Me :
 - 👋 Hi, I’m Subham Rout.
-- 👀 I’m interested in Javascript, NodeJS, Express.js, Cassandra, SQL, Docker, Firebase, PostgreSql.
+- 👀 I’m interested in Javascript, NodeJS, Express.js, Cassandra, SQL, Docker, Firebase, PostgreSql, Redis, GCP, JWT.
 - 🌱 I’m currently working as a backend software developer at iServeU Technology Pvt. Ltd., Bhubaneswar.
 - 💞️ I’m looking to collaborate on Javascript and NodeJS.
 - 📫 How to reach me 
