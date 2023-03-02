@@ -3,7 +3,7 @@
 - 👀 I’m interested in Javascript, NodeJS, Express.js, Cassandra, SQL, Docker, Firebase, PostgreSql, Redis, GCP, JWT.
 - 🌱 I’m currently working as a backend software developer at iServeU Technology Pvt. Ltd., Bhubaneswar.
 - 💞️ I’m looking to collaborate on Javascript and NodeJS.
-- 📫 How to reach me 
+- 📫 Reach me on my
   contact no - 8144068414 and
   mail id- subhamroutnuagaon@gmail.com
   
