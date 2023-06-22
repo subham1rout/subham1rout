@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **subhamroutnuagaon@gmail.com.**
 
-- check my article on https://medium.com/@subham1rout
+- 📫 check my article on https://medium.com/@subham1rout
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1M3PpE5ri58PiB1tZzTbRQKfLb1NGU4QF/view?usp=sharing](https://drive.google.com/file/d/1M3PpE5ri58PiB1tZzTbRQKfLb1NGU4QF/view?usp=sharing)
 
@@ -33,6 +33,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://linkedin.com/in/subham1rout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subham1rout" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/subham1rout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="subham1rout" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/subham_rout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="subham_rout" height="30" width="40" /></a>
+<a href="https://medium.com/@subham1rout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="subham_rout" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
