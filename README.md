@@ -3,7 +3,7 @@ subham1rout/subham1rout is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋 My name is Subham Rout</h1>
-<h3 align="center">Looking forward for DSA and experimenting with Backend REST APIs using Javascript, Nodejs, Express.</h3>
+<h3 align="center">Looking forward to DSA and experimenting with Backend REST APIs using Javascript, Nodejs, and Express.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subham1rout&label=Profile%20views&color=0e75b6&style=flat" alt="subham1rout" /> </p>
 <!---
@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 --->
 <p align="left"> <a href="https://twitter.com/subham1rout" target="blank"><img src="https://img.shields.io/twitter/follow/subham1rout?logo=twitter&style=for-the-badge" alt="subham1rout" /></a> </p>
 
-- 🔭 I’m currently working on **Fintech Projects like Loan, Invoicing, MATM.** at iServeU Technology Pvt. Ltd., Bhubaneswar, india.
+- 🔭 I’m working on **Fintech Projects like Loan, Invoicing, MATM.** at iServeU Technology Pvt. Ltd., Bhubaneswar, India.
 
-- 🌱 I’m currently learning **Advanced JS, Node.js, Express.js, DSA topics.**
+- 🌱 I’m currently learning **Advanced JS, Node.js, Express.js, and DSA topics.**
 
 - 👯 I’m looking to collaborate on **Javascript and NodeJS.**
 
@@ -21,9 +21,11 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **subhamroutnuagaon@gmail.com.**
 
+- check my article on https://medium.com/@subham1rout
+
 - 📄 Know about my experiences [https://drive.google.com/file/d/1M3PpE5ri58PiB1tZzTbRQKfLb1NGU4QF/view?usp=sharing](https://drive.google.com/file/d/1M3PpE5ri58PiB1tZzTbRQKfLb1NGU4QF/view?usp=sharing)
 
-- ⚡ Fun fact **Now Life is all about Code, Eat and Workout.**
+- ⚡ Fun fact **Now Life is all about Code, Eat, and Workout.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
