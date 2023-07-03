@@ -46,6 +46,6 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=subham1rout&show_icons=true&locale=en" alt="subham1rout" /></p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=subham1rout&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=subham1rout)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subham1rout)](https://github.com/anuraghazra/github-readme-stats)
