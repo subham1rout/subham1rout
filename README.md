@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 check my article on https://medium.com/@subham1rout
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1M3PpE5ri58PiB1tZzTbRQKfLb1NGU4QF/view?usp=sharing](https://drive.google.com/file/d/1M3PpE5ri58PiB1tZzTbRQKfLb1NGU4QF/view?usp=sharing)
+- 📄 Know about my experiences ([https://drive.google.com/file/d/1M3PpE5ri58PiB1tZzTbRQKfLb1NGU4QF/view?usp=sharing])
 
 - ⚡ Fun fact **Now Life is all about Code, Eat, and Workout.**
 
