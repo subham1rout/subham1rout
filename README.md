@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📄 Know about my experiences here https://drive.google.com/file/d/18n-ZEulsGKUkF8BPmkui9WEmNOk93Jfq/view?usp=sharing
 
-- ⚡ Fun fact **Now Life is all about Code, Eat, and Workout.**
+- ⚡ Fun fact **CODE is the thing to do, FITNESS is the way to do so.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
