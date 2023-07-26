@@ -61,12 +61,12 @@ You can click the Preview link to take a look at your changes.
     <a href="https://github.com/subham1rout/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Rout streak" src="https://github-readme-streak-stats.herokuapp.com/?user=subham1rout&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-    <a href="https://github.com/subham1rout/github-readme-stats"><img alt="Subham Rout Github Stats" src="https://github-readme-stats.vercel.app/api?username=subham1rout&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 
 ## 🏆 GitHub Language
 <p align="center">
-  <a href="https://github.com/subham1rout/github-readme-stats"><img alt="Subham Rout Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subham1rout&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/subham1rout/github-readme-stats"><img alt="Subham Rout Github Stats" src="https://github-readme-stats.vercel.app/api?username=subham1rout&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+     <a href="https://github.com/subham1rout/github-readme-stats"><img alt="Subham Rout Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subham1rout&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 </p>
 
