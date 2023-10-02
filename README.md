@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m working on **Fintech Projects like Loan, Invoicing, MATM.** at iServeU Technology Pvt. Ltd., Bhubaneswar, India.
+- 🔭 I’m working at iServeU Technology Pvt. Ltd. **a Fintech StartUp having Projects like Loans, Invoicing, TDS, and MATM.**, at Bhubaneswar, India.
 
 <!--- 🌱 I’m currently learning **Advanced JS, Node.js, Express.js, and DSA topics.** -->
 
