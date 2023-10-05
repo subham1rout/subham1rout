@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m working as a Software Engineer at iServeU Technology Pvt. Ltd. **a Fintech StartUp having Projects like Loans, Invoicing, MATM.**
+- 🔭 I’m working as a Software Engineer at iServeU Technology Pvt. Ltd. **majorly worked on Fintech Projects like Loans, Invoicing, MATM.**
 
 <!--- 🌱 I’m currently learning **Advanced JS, Node.js, Express.js, and DSA topics.** -->
 
