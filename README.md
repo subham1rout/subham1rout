@@ -26,9 +26,9 @@ You can click the Preview link to take a look at your changes.
 
 - 👯 check my articles on https://medium.com/@subham1rout
 
-- 📄 Know about my experiences(resume) here https://shorturl.at/uLRV3
+- 📄 Know about my experiences(resume) here https://shorturl.at/cbPaL
 
-- ⚡ Fun fact **CODE is the thing to do, FITNESS is the way to do so.**
+- ⚡ According to me **CODE is the thing to do, FITNESS is the way to do so.**
 
 ## Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="38">
 <p align="left">
