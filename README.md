@@ -59,15 +59,18 @@ You can click the Preview link to take a look at your changes.
 ## 🏆 Github Stats
 
 <p align="center">
-    <a href="https://github.com/subham1rout/github-readme-streak-stats" align="left">
+    <a href="https://github.com/subham1rout/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Rout streak" src="https://github-readme-streak-stats.herokuapp.com/?user=subham1rout&hide_border=true&stroke=0000"/>
     </a>
 </p>
 
-## 🏆 Leetcode Stats
+## 🏆 Leetcode and GFG Stats
 <p align="center">
-    <a href="https://leetcode-badge-sage.vercel.app/badge/subham1rout?theme=neutral" align="right">
+    <a href="https://leetcode-badge-sage.vercel.app/badge/subham1rout?theme=neutral" >
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Rout streak" src="https://leetcode-badge-sage.vercel.app/badge/subham1rout?theme=neutral"/>
+    </a>
+    <a href="https://geeks-for-geeks-stats-api.vercel.app/?userName=subham_rout">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Rout streak" src="https://geeks-for-geeks-stats-api.vercel.app/?userName=subham_rout"/>
     </a>
 
 </p>
