@@ -56,12 +56,16 @@ You can click the Preview link to take a look at your changes.
 
 </p>
 
-## 📊 Github & Leetcode Stats
+## 📊 Github Stats
 
 <p align="center">
     <a href="https://github.com/subham1rout/github-readme-streak-stats" align="left">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Rout streak" src="https://github-readme-streak-stats.herokuapp.com/?user=subham1rout&hide_border=true&stroke=0000"/>
     </a>
+</p>
+
+## 🏆 Leetcode Stats
+<p>
     <a href="https://leetcode-badge-sage.vercel.app/badge/subham1rout?theme=neutral" align="right">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Rout streak" src="https://leetcode-badge-sage.vercel.app/badge/subham1rout?theme=neutral"/>
     </a>
