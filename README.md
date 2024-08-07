@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📄 Know about my experiences(resume) here https://shorturl.at/cbPaL
 
-- ⚡ According to me **CODE is the thing to do, FITNESS is the way to do so.**
+- ⚡ FunFACT **CODE is the thing to do, FITNESS is the way to do so.**
 
 ## Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="38">
 <p align="left">
@@ -54,20 +54,25 @@ You can click the Preview link to take a look at your changes.
     <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
 <!--     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a> -->
 
-## 📊 Github Stats
 </p>
 
-<p align="center">
+## 📊 Github & Leetcode Stats
+
+<p align="left">
     <a href="https://github.com/subham1rout/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Rout streak" src="https://github-readme-streak-stats.herokuapp.com/?user=subham1rout&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Rout streak" src="https://github-readme-streak-stats.herokuapp.com/?user=subham1rout&hide_border=true&stroke=0000"/>
     </a>
+    <a href="https://leetcode-badge-sage.vercel.app/badge/subham1rout?theme=neutral">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Rout streak" src="https://leetcode-badge-sage.vercel.app/badge/subham1rout?theme=neutral"/>
+    </a>
+
 </p>
 
 ## 🏆 GitHub Language
 <p align="center">
-    <a href="https://github.com/subham1rout/github-readme-stats"><img alt="Subham Rout Github Stats" src="https://github-readme-stats.vercel.app/api?username=subham1rout&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-     <a href="https://github.com/subham1rout/github-readme-stats"><img alt="Subham Rout Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subham1rout&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/subham1rout/github-readme-stats"><img alt="Subham Rout Github Stats" src="https://github-readme-stats.vercel.app/api?username=subham1rout&show_icons=true&count_private=true&hide_border=true" /></a>
+     <a href="https://github.com/subham1rout/github-readme-stats"><img alt="Subham Rout Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subham1rout&langs_count=8&count_private=true&layout=compact&hide_border=true" /></a>
   <br/>
 </p>
 
-<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subham1rout)](https://github.com/anuraghazra/github-readme-stats) -->
+<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subham1rout)](https://github.com/anuraghazra/github-readme-stats) (https://leetcode-badge-sage.vercel.app/badge/subham1rout?theme=neutral)-->
