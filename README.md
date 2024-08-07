@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 
 - ⚡ FunFACT **CODE is the thing to do, FITNESS is the way to do so.**
 
-## Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="38">
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="38"> Connect with me: 
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/subhamrout/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> 
@@ -56,7 +56,7 @@ You can click the Preview link to take a look at your changes.
 
 </p>
 
-## 📊 Github Stats
+## 🏆 Github Stats
 
 <p align="center">
     <a href="https://github.com/subham1rout/github-readme-streak-stats" align="left">
@@ -65,14 +65,14 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ## 🏆 Leetcode Stats
-<p>
+<p align="center">
     <a href="https://leetcode-badge-sage.vercel.app/badge/subham1rout?theme=neutral" align="right">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Rout streak" src="https://leetcode-badge-sage.vercel.app/badge/subham1rout?theme=neutral"/>
     </a>
 
 </p>
 
-## 🏆 GitHub Language
+## 📊 GitHub Language
 <p align="center">
     <a href="https://github.com/subham1rout/github-readme-stats"><img alt="Subham Rout Github Stats" src="https://github-readme-stats.vercel.app/api?username=subham1rout&show_icons=true&count_private=true&hide_border=true" /></a>
      <a href="https://github.com/subham1rout/github-readme-stats"><img alt="Subham Rout Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subham1rout&langs_count=8&count_private=true&layout=compact&hide_border=true" /></a>
