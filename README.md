@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👯 check my articles on https://medium.com/@subham1rout
 
-- 📄 Know about my experiences(resume) here https://shorturl.at/a4Yj7
+- 📄 Know about my experiences(resume) here https://shorturl.at/7SuNm
 
 - ⚡ FunFACT **CODE is the thing to do, FITNESS is the way to do so.**
 
